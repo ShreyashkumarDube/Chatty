@@ -114,13 +114,3 @@ A real-time chat application built with React, Vite, Zustand, Express, MongoDB, 
 - **Backend:** Express, MongoDB, Mongoose, Socket.IO, Cloudinary, JWT
 
 ---
-
-## License
-
-This project is licensed under the ISC License.
-
----
-
-## Author
-
-- [Your Name](https://github.com/yourusername)
